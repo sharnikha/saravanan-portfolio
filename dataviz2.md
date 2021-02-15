@@ -8,5 +8,9 @@ Government debt visualization from 1995-2019 represented by the Debt-to-GDP rati
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5283889"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Government debt around the world in 2018-2019 represented by the Debt-to-GDP ratio
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5298547"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 
