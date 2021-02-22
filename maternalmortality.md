@@ -16,7 +16,7 @@ After the user feedback, I incorporated their changes to shorten the title to "U
 
 ## Wireframe Process Stage- Prior to User Feedback
 
-
+![IMG_BAF7096F2EB4-1](https://user-images.githubusercontent.com/78708179/108652138-68aa4000-7491-11eb-8f44-64d96becb4fc.jpeg)
 
 ## Recreated Data Visualization
 
