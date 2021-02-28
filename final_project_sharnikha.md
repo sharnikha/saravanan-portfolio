@@ -2,7 +2,7 @@
 
 ## Outline
 
-My final project focuses on the lack of equity for Black mothers in the healthcare system, particulary gynecology where maternal mortality rates are on the rise. I analyzed the maternal mortality rate by race, states, prenatal care, and included information on the number of medical residents who applied for gynecology by race to observe how the different factors play a role in the increasing inequality and deaths.
+My final project focuses on the lack of equity for Black mothers in the healthcare system, particulary gynecology where maternal mortality rates are on the rise. I analyzed the maternal mortality rate by race, states, prenatal care, and included information on the number of medical residents who applied for gynecology by race to observe how the different factors play a role in the increasing inequality and deaths so future steps can be suggested accordingly. 
 
 The storyline for the project is planned as:
 1. Brief historical context on black maternal health from slavery to now
@@ -30,7 +30,7 @@ The storyline for the project is planned as:
 ## Data
 
 1. [https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm#:~:text=Considerable%20racial%2Fethnic%20disparities%20in%20pregnancy%2Drelated%20mortality%20exist.&text=During%202014%E2%80%932017%2C%20the%20pregnancy,Indian%20or%20Alaska%20Native%20women](url)
-2. [https://www.cdc.gov/nchs/maternal-mortality/MMR-2018-State-Data-508.pdf]
+2. [https://www.cdc.gov/nchs/maternal-mortality/MMR-2018-State-Data-508.pdf](url)
 
 The first two data sources are going to be used for the maternal mortality visualizations done either through Flourish or Tableau. 
 Source 1 includes information about U.S. mortality rates as a nation and then breaks down the data by race including: White, Black, Hispanic, Asian or Pacific Islander, and American Indian or Native American. The data is an average for 2014-2017, which is the most recent dataset available. I plan on using this information to create a line chart to compare the Black mortality rate to the U.S. average rate and mainly the White mortality rate. The other groups will be included in the visualization as grey lines. 
@@ -45,3 +45,7 @@ This source will provide information about the inadequate prenatal care provided
 This source will be used to create a visualization on the percentage of races among gynecology and obstetrics residencies from MD programs in 2019. Since the lack of diversity is often connected to the adverse outcomes for Black mothers in maternal health, I wanted to see what the racial demographics of gynecology look like currently so the policy recommendations and future steps can be addressed appropriately. I plan to create a pie chart visualization with the percentages of the race and want to maintain the same color scheme as the inadequate care visualization so the audience can easily compare the factors and the maternal mortality rate outcome.
 
 ## Method and Medium
+
+I plan on using Shorthand for the final project presentation after watching the class presentation on Shorthand. The application seems to be built for effective storytelling and I want the audience to view the comprehensive story of how Black health has changed across time from slavery but focus on recent data to emphasize the lack of health care quality and the need for attention to Black maternal mortality rates. Shorthand will help me create a persuasive but informative story for what the current state of the Black maternal mortality crisis is as recent as 2017-2018 based on data and what are future steps to take. 
+
+For my color scheme on Shorthand, I want to keep it simple and focus on grey, white, and blue/red mostly since the audience for the visualizations and story will be general community members but also people interested in public health who will want to focus more on the data rather than be distracted by too many details. Shorthand will also be an effective tool to present to any future internship and job applications easily. I also want to use impact images on shorthand that will draw the audience in to critically think about the crisis and walk away with thoughts about causes and effects on the Black community, feeling encouraged to take individual steps.
