@@ -29,8 +29,8 @@ The storyline for the project is planned as:
 
 ## Data
 
-1. https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm#:~:text=Considerable%20racial%2Fethnic%20disparities%20in%20pregnancy%2Drelated%20mortality%20exist.&text=During%202014%E2%80%932017%2C%20the%20pregnancy,Indian%20or%20Alaska%20Native%20women
-2. https://www.cdc.gov/nchs/maternal-mortality/MMR-2018-State-Data-508.pdf
+1. [https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm#:~:text=Considerable%20racial%2Fethnic%20disparities%20in%20pregnancy%2Drelated%20mortality%20exist.&text=During%202014%E2%80%932017%2C%20the%20pregnancy,Indian%20or%20Alaska%20Native%20women](url)
+2. [https://www.cdc.gov/nchs/maternal-mortality/MMR-2018-State-Data-508.pdf] (url)
 
 The first two data sources are going to be used for the maternal mortality visualizations done either through Flourish or Tableau. 
 Source 1 includes information about U.S. mortality rates as a nation and then breaks down the data by race including: White, Black, Hispanic, Asian or Pacific Islander, and American Indian or Native American. The data is an average for 2014-2017, which is the most recent dataset available. I plan on using this information to create a line chart to compare the Black mortality rate to the U.S. average rate and mainly the White mortality rate. The other groups will be included in the visualization as grey lines. 
