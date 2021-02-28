@@ -30,17 +30,17 @@ The storyline for the project is planned as:
 ## Data
 
 1. [https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm#:~:text=Considerable%20racial%2Fethnic%20disparities%20in%20pregnancy%2Drelated%20mortality%20exist.&text=During%202014%E2%80%932017%2C%20the%20pregnancy,Indian%20or%20Alaska%20Native%20women](url)
-2. [https://www.cdc.gov/nchs/maternal-mortality/MMR-2018-State-Data-508.pdf] (url)
+2. [https://www.cdc.gov/nchs/maternal-mortality/MMR-2018-State-Data-508.pdf]
 
 The first two data sources are going to be used for the maternal mortality visualizations done either through Flourish or Tableau. 
 Source 1 includes information about U.S. mortality rates as a nation and then breaks down the data by race including: White, Black, Hispanic, Asian or Pacific Islander, and American Indian or Native American. The data is an average for 2014-2017, which is the most recent dataset available. I plan on using this information to create a line chart to compare the Black mortality rate to the U.S. average rate and mainly the White mortality rate. The other groups will be included in the visualization as grey lines. 
 Source 2 includes information about U.S. mortality races by race and by each stae. I want to use this data to create a map with a gradient of the most severe Black mortality rates to least severe based on information that is available. Certain states do not have information available due to data confidentiality suppression so those states will be identified in grey and a note will be included on the graphic. 
 
-3. https://www.marchofdimes.org/Peristats/ViewSubtopic.aspx?reg=99&top=5&stop=37&lev=1&obj=1&cmp=&slev=1&sty=9999&eny=-1&chy=
+[https://www.marchofdimes.org/Peristats/ViewSubtopic.aspx?reg=99&top=5&stop=37&lev=1&obj=1&cmp=&slev=1&sty=9999&eny=-1&chy=](url)
 
 This source will provide information about the inadequate prenatal care provided by race based on a two year avaerage. I plan to use the average for 2016-2018 since that will most correspond with the maternal mortality rates mentioned in the previous visualization allowing the audience to observe how one of the factors for pregnancy-related complications compares with the mortality rates. I plan to use a column chart for this visualization showing how Black compare to other races in terms of inadequate prenatal care. Inadquate prenatal care is definied as "Prenatal care begun after the 4th month of pregnancy or less than 50% of recommended visits received". 
 
-4. https://www.aamc.org/data-reports/students-residents/interactive-data/2020-facts-applicants-and-matriculants-data
+[https://www.aamc.org/data-reports/students-residents/interactive-data/2020-facts-applicants-and-matriculants-data](url)
 
 This source will be used to create a visualization on the percentage of races among gynecology and obstetrics residencies from MD programs in 2019. Since the lack of diversity is often connected to the adverse outcomes for Black mothers in maternal health, I wanted to see what the racial demographics of gynecology look like currently so the policy recommendations and future steps can be addressed appropriately. I plan to create a pie chart visualization with the percentages of the race and want to maintain the same color scheme as the inadequate care visualization so the audience can easily compare the factors and the maternal mortality rate outcome.
 
