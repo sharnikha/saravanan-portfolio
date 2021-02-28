@@ -15,6 +15,17 @@ The storyline for the project is planned as:
 
 ## Sketches
 
+2. Maternal Mortality Rate in the United States by Race
+![IMG_47AE47BEFABD-1](https://user-images.githubusercontent.com/78708179/109407814-07cbad80-7952-11eb-95f9-b0f45fa1d003.jpeg)
+
+3. Maternal Mortality by Race and States
+![IMG_279DC8567CE8-1](https://user-images.githubusercontent.com/78708179/109407815-0a2e0780-7952-11eb-9839-a0200f535570.jpeg)
+
+5. Black Inadequate Prenatal Care
+![IMG_A062CA23F421-1](https://user-images.githubusercontent.com/78708179/109407820-0ef2bb80-7952-11eb-9616-3eac81d85e7a.jpeg)
+
+6. Gynocology Residents by Race
+![IMG_928F3F5EA6BB-1](https://user-images.githubusercontent.com/78708179/109407818-0c906180-7952-11eb-8ad8-a4021187f6be.jpeg)
 
 ## Data
 
