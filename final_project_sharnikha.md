@@ -59,7 +59,7 @@ I started by creating the storyboard for the project after incorportaing the fee
 While doing the wireframe process, I realized the importance of using color and minimizing the use of text in the outline. I want to invite the reader to focus on the current crisis rather than the background which serves as an introduction so the focus of the presentation should be the middle part of the storyboard with the data visualizations. I also wanted the visualizations to stand alone and interpreted even without any other text near it explaining the visualization. The data visualizations needed to be easy to understand but also memorable either through color, style, or numbers. 
 
 ![New Wireframe 1](https://user-images.githubusercontent.com/78708179/110608189-ff495300-8159-11eb-9efe-63da6ee3e1f2.png)
-![New Wireframe 1 copy](https://user-images.githubusercontent.com/78708179/110608202-03757080-815a-11eb-9ad3-cbbe90aa1902.png)
+![New Wireframe 1 copy](https://user-images.githubusercontent.com/78708179/110608569-5fd89000-815a-11eb-9204-8e8094144ac4.png)
 
 ## User Research Protocol
 
