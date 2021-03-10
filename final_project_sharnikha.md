@@ -49,3 +49,31 @@ This source will be used to create a visualization on the percentage of races am
 I plan on using Shorthand for the final project presentation after watching the class presentation on Shorthand. The application seems to be built for effective storytelling and I want the audience to view the comprehensive story of how Black health has changed across time from slavery but focus on recent data to emphasize the lack of health care quality and the need for attention to Black maternal mortality rates. Shorthand will help me create a persuasive but informative story for what the current state of the Black maternal mortality crisis is as recent as 2017-2018 based on data and what are future steps to take. 
 
 For my color scheme on Shorthand, I want to keep it simple and focus on grey, white, and blue/red mostly since the audience for the visualizations and story will be general community members but also people interested in public health who will want to focus more on the data rather than be distracted by too many details. Shorthand will also be an effective tool to present to any future internship and job applications easily. I also want to use impact images on shorthand that will draw the audience in to critically think about the crisis and walk away with thoughts about causes and effects on the Black community, feeling encouraged to take individual steps.
+
+# Part II
+
+## Wireframes and Storyboard
+
+I started by creating the storyboard for the project after incorportaing the feedback for in-class discussions. The storyboard contains information about the topics I want to highlight during this presentation beginning with the historical context behind black maternal mortality, providing evidence with data visualizations, addressing factors that can influence black maternal mortality rates, and ending with a call to action with recommendations for general audience, healthcare workers, and policymakers. I wanted to ensure with my storyboard that the ideas i'm trying to convey flow together cohesively instead of appearing fragmented with pieces of data and information not relating to each other. Additionally, I tried to understand how this storyboard would be viewed by and appeal to different audience based on their background with the topic. Creating the storyboard that continues to stay concise but includes all necessary information was a challenge but to create the impact I want with the audience, I need to ensure with the wireframe process, I can capture the audience's attention.
+
+While doing the wireframe process, I realized the importance of using color and minimizing the use of text in the outline. I want to invite the reader to focus on the current crisis rather than the background which serves as an introduction so the focus of the presentation should be the middle part of the storyboard with the data visualizations. I also wanted the visualizations to stand alone and interpreted even without any other text near it explaining the visualization. The data visualizations needed to be easy to understand but also memorable either through color, style, or numbers. 
+
+## User Research Protocol
+
+My target audience for the project remains to be general public community members, healthcare workers, and policymakers since the crisis of black maternal mortality reaches all sectors of our healthcare system from the community level to the government. Additionally, bringing awareness to the community members can create a necessary push for change. To choose the interviewees, I first started with a classmate since they would be able to critique my visualizations based on the critique process discussed in class, understand my storyboard method easily, and provide experience-based feedback since they also worked on a project. I picked a classmate that would have knowledge in the health care policy field to stand as a policymaker perspective. Another classmate I picked would stand in as a healthcare worker since she has been a physician for the past few years. Since she is also a woman of color, I wanted to understand her perspective of if I'm approaching the topic correctly and respectfully. Similar to the previous classmate, I also wanted her to critique my visualizations, storyboard flow, and check if I need any additional details. Lastly, I chose my sister as a community member since she is a regular indivdual in the community with not much experience in the healthcare system, especially in gynecology. This is to serve as a fresh perspective on my project, and this is the first time she is seeing it, so I can get feedback that maybe my classmates might not have thought about and are particular to a general audience member.    
+
+**Script**
+1. If you had to look at each storyboard slide for few seconds, what would you first notice on each?
+2. What was the main idea of the story?
+3. Is each visualization comprehensible or do you need additional information?
+4. Did any color scheme seem odd?
+5. Did the storyline seem to flow throughout the storyboard or was there a break at any point?
+6. Can you understand the storyboard as whole or do you need additional information?
+7. Were there too many words on any slide?
+8. What was the final message you remember?
+9. If you were a community member/healthcare worker/policymaker, is there any other information you would have preferred to see on the storyboard?
+10. Any changes you want to see on any slide? 
+
+**Interview Results**
+
+**Change to Implement**
