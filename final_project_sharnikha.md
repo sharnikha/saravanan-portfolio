@@ -78,7 +78,9 @@ My target audience for the project remains to be general public community member
 10. Any changes you want to see on any slide? 
 
 **Interview Results**
+
 Here are the interviewees' feedback:
+
 <img width="517" alt="Screen Shot 2021-03-10 at 4 35 49 PM" src="https://user-images.githubusercontent.com/78708179/110701065-b5468880-81be-11eb-8ab2-f5a98b667e98.png">
 
 All the interviews aligned on what the main idea of the project is and liked the story line and how smoothly it flowed. They also all didn't think the slides were too overwhelming or busy but cautioned to maintain white space for the final project. All of the interviewees thought the visualizations were comprehensive and could stand alone because it included enough information. Some interviewees suggested adding current policies that are perpetuating medical racism or are addressing it. Another suggestion was also to maintain a strict color scheme of red, yellow, and grey, even including the first image on the introduction slide. Each interviewee thought there was a different part of the storyboard that was memorable so that ranged from the actions checklist, state data visualization, highlighting the two factors, and line chart comparing Black mothers to US average. In class, I received additional feedback on changing the grey gradient used for other races in slides 6 and 7 to a monotone color gradient used across all races, including Black because there are too many greys otherwise. 
