@@ -52,4 +52,4 @@ For my color scheme on Shorthand, I want to keep it simple and focus on grey, wh
 
 
 
-[Home Page](/README.md)                 [Part II](/final_project_2_sharnikha.md)
+[Home Page](/README.md)                                          
