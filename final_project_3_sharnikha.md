@@ -10,7 +10,7 @@ I learned how to use Shorthand which was a very interesting experience that I wa
 
 # Data Story
 
-https://carnegiemellon.shorthandstories.com/black-mothers/index.html
+<https://carnegiemellon.shorthandstories.com/black-mothers/index.html>
 
 # References
 
