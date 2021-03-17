@@ -12,9 +12,9 @@ In this class, I hope to learn how to represent data effectively with various ty
 # Portfolio 
 This is the list of my current data visualizations. 
 
-[King County Visualization](/kingcountydemo.md)
-[Visualizing Government Debt](/dataviz2.md)
-[Maternal Mortality in the US](/maternalmortality.md)
-[Final Project - Part I](/final_project_1_sharnikha.md)
-[Final Project - Part II](/final_project_2_sharnikha.md)
-[Final Project - Part III](/final_project_3_sharnikha.md)
+# [King County Visualization](/kingcountydemo.md)
+# [Visualizing Government Debt](/dataviz2.md)
+# [Maternal Mortality in the US](/maternalmortality.md)
+# [Final Project - Part I](/final_project_1_sharnikha.md)
+# [Final Project - Part II](/final_project_2_sharnikha.md)
+# [Final Project - Part III](/final_project_3_sharnikha.md)
