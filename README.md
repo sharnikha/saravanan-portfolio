@@ -18,3 +18,4 @@ This is the list of my current data visualizations.
 # [Final Project - Part I](/final_project_1_sharnikha.md)
 # [Final Project - Part II](/final_project_2_sharnikha.md)
 # [Final Project - Part III](/final_project_3_sharnikha.md)
+# [Data Story](/datastory.md)
