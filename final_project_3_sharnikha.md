@@ -15,19 +15,19 @@ I learned how to use Shorthand which was a very interesting experience that I wa
 # References
 
 1.	Photos in order: Photo by Marcelo Leal on Unsplash, Photo by Piron Guillaume on Unsplash, Photo by Jake Blucker on Unsplash, Photo by Hush Naidoo on Unsplash, Photo by Piron Guillaume on Unsplash
-2.	Novoa, C., & Taylor, J. (2018, February 1). Exploring African Americans’ High Maternal and Infant Death Rates. Center for American Progress. https://www.americanprogress.org/issues/early-childhood/reports/2018/02/01/445576/exploring-african-americans-high-maternal-infant-death-rates/
-3.	Analysis of Federal Bills to Strengthen Maternal Health Care. (2020, December 21). KFF. https://www.kff.org/womens-health-policy/fact-sheet/analysis-of-federal-bills-to-strengthen-maternal-health-care/
-4.	Geddes, J. (2021, February 22). What to Expect at Your Prenatal Appointments. What to Expect. https://www.whattoexpect.com/pregnancy/pregnancy-health/prenatal-appointments/
-5.	Planned Parenthood. (n.d.). What Is Prenatal Care? | Health Care During Pregnancy. https://www.plannedparenthood.org/learn/pregnancy/prenatal-care
-6.	Peahl,A., Kozhimannil, K., & Admon, L. (2019, June 26). Addressing The US Maternal Health Crisis: Policies Of 2020 Presidential Candidates | Health Affairs Blog. https://www.healthaffairs.org/do/10.1377/hblog20190625.583781/full/
-7.	World Health Organization. (n.d.). Indicator Metadata Registry Details. https://www.who.int/data/maternal-newborn-child-adolescent-ageing/advisory-groups/gama/activities-of-gama
-8.	Vedam, S., Stoll, K., Taiwo, T. K., Rubashkin, N., Cheyney, M., Strauss, N., McLemore, M., Cadena, M., Nethery, E., Rushton, E., Schummers, L., & Declercq, E. (2019). The Giving Voice to Mothers study: Inequity and mistreatment during pregnancy and childbirth in the United States. Reproductive Health, 16(1). https://doi.org/10.1186/s12978-019-0729-2
-9.	Farrington, L. (2020, September 18). How the CDC and others are failing Black women during childbirth. STAT. https://www.statnews.com/2020/09/18/how-the-cdc-and-others-are-failing-black-women-during-childbirth/
-10.	Beim, P. (2020, June 8). The Disparities in Healthcare for Black Women. Endometriosis : Causes - Symptoms - Diagnosis - and Treatment. https://www.endofound.org/the-disparities-in-healthcare-for-black-women
-11.	Washington, J. (2020, October 14). New poll shows Black Americans put far less trust in doctors and hospitals than white people. The Undefeated. https://theundefeated.com/features/new-poll-shows-black-americans-put-far-less-trust-in-doctors-and-hospitals-than-white-people/
-12.	Holland, B. (2017, August 29). The ‘Father of Modern Gynecology’ Performed Shocking Experiments on Enslaved Women. HISTORY. https://www.history.com/news/the-father-of-modern-gynecology-performed-shocking-experiments-on-slaves
-13.	Owens, D. C., & Fett, S. M. (2019). Black Maternal and Infant Health: Historical Legacies of Slavery. American Journal of Public Health, 109(10), 1342–1345. https://doi.org/10.2105/AJPH.2019.305243
-14.	Novoa, C., & Taylor, J. (2018, February 1). Exploring African Americans’ High Maternal and Infant Death Rates. Center for American Progress. https://www.americanprogress.org/issues/early-childhood/reports/2018/02/01/445576/exploring-african-americans-high-maternal-infant-death-rates/
+2.	Novoa, C., & Taylor, J. (2018, February 1). Exploring African Americans’ High Maternal and Infant Death Rates. Center for American Progress. <https://www.americanprogress.org/issues/early-childhood/reports/2018/02/01/445576/exploring-african-americans-high-maternal-infant-death-rates/>
+3.	Analysis of Federal Bills to Strengthen Maternal Health Care. (2020, December 21). KFF. <https://www.kff.org/womens-health-policy/fact-sheet/analysis-of-federal-bills-to-strengthen-maternal-health-care/>
+4.	Geddes, J. (2021, February 22). What to Expect at Your Prenatal Appointments. What to Expect. <https://www.whattoexpect.com/pregnancy/pregnancy-health/prenatal-appointments/>
+5.	Planned Parenthood. (n.d.). What Is Prenatal Care? | Health Care During Pregnancy. <https://www.plannedparenthood.org/learn/pregnancy/prenatal-care>
+6.	Peahl,A., Kozhimannil, K., & Admon, L. (2019, June 26). Addressing The US Maternal Health Crisis: Policies Of 2020 Presidential Candidates | Health Affairs Blog. <https://www.healthaffairs.org/do/10.1377/hblog20190625.583781/full/>
+7.	World Health Organization. (n.d.). Indicator Metadata Registry Details. <https://www.who.int/data/maternal-newborn-child-adolescent-ageing/advisory-groups/gama/activities-of-gama>
+8.	Vedam, S., Stoll, K., Taiwo, T. K., Rubashkin, N., Cheyney, M., Strauss, N., McLemore, M., Cadena, M., Nethery, E., Rushton, E., Schummers, L., & Declercq, E. (2019). The Giving Voice to Mothers study: Inequity and mistreatment during pregnancy and childbirth in the United States. Reproductive Health, 16(1). <https://doi.org/10.1186/s12978-019-0729-2>
+9.	Farrington, L. (2020, September 18). How the CDC and others are failing Black women during childbirth. STAT. <https://www.statnews.com/2020/09/18/how-the-cdc-and-others-are-failing-black-women-during-childbirth/>
+10.	Beim, P. (2020, June 8). The Disparities in Healthcare for Black Women. Endometriosis : Causes - Symptoms - Diagnosis - and Treatment. <https://www.endofound.org/the-disparities-in-healthcare-for-black-women>
+11.	Washington, J. (2020, October 14). New poll shows Black Americans put far less trust in doctors and hospitals than white people. The Undefeated. <https://theundefeated.com/features/new-poll-shows-black-americans-put-far-less-trust-in-doctors-and-hospitals-than-white-people/>
+12.	Holland, B. (2017, August 29). The ‘Father of Modern Gynecology’ Performed Shocking Experiments on Enslaved Women. HISTORY. <https://www.history.com/news/the-father-of-modern-gynecology-performed-shocking-experiments-on-slaves>
+13.	Owens, D. C., & Fett, S. M. (2019). Black Maternal and Infant Health: Historical Legacies of Slavery. American Journal of Public Health, 109(10), 1342–1345. <https://doi.org/10.2105/AJPH.2019.305243>
+14.	Novoa, C., & Taylor, J. (2018, February 1). Exploring African Americans’ High Maternal and Infant Death Rates. Center for American Progress. <https://www.americanprogress.org/issues/early-childhood/reports/2018/02/01/445576/exploring-african-americans-high-maternal-infant-death-rates/>
 
 
 [Home Page](/README.md)
