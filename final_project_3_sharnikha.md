@@ -28,7 +28,6 @@ I learned how to use Shorthand which was a very interesting experience that I wa
 12.	Holland, B. (2017, August 29). The ‘Father of Modern Gynecology’ Performed Shocking Experiments on Enslaved Women. HISTORY. https://www.history.com/news/the-father-of-modern-gynecology-performed-shocking-experiments-on-slaves
 13.	Owens, D. C., & Fett, S. M. (2019). Black Maternal and Infant Health: Historical Legacies of Slavery. American Journal of Public Health, 109(10), 1342–1345. https://doi.org/10.2105/AJPH.2019.305243
 14.	Novoa, C., & Taylor, J. (2018, February 1). Exploring African Americans’ High Maternal and Infant Death Rates. Center for American Progress. https://www.americanprogress.org/issues/early-childhood/reports/2018/02/01/445576/exploring-african-americans-high-maternal-infant-death-rates/
-![image](https://user-images.githubusercontent.com/78708179/111551182-007c1080-8756-11eb-9d9f-f8d25a1aa21d.png)
 
 
-## [Home Page](/README.md)
+[Home Page](/README.md)
