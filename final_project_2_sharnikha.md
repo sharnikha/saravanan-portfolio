@@ -40,3 +40,6 @@ All the interviews aligned on what the main idea of the project is and liked the
 4. Check if any esteemed organization have commented on the crisis
 5. Choose a different first image that matched the color scheme
 6. Change the blue for white mothers in the line chart to yellow
+
+
+[Home Page](/README.md)
