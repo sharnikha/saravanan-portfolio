@@ -49,3 +49,7 @@ This source will be used to create a visualization on the percentage of races am
 I plan on using Shorthand for the final project presentation after watching the class presentation on Shorthand. The application seems to be built for effective storytelling and I want the audience to view the comprehensive story of how Black health has changed across time from slavery but focus on recent data to emphasize the lack of health care quality and the need for attention to Black maternal mortality rates. Shorthand will help me create a persuasive but informative story for what the current state of the Black maternal mortality crisis is as recent as 2017-2018 based on data and what are future steps to take. 
 
 For my color scheme on Shorthand, I want to keep it simple and focus on grey, white, and blue/red mostly since the audience for the visualizations and story will be general community members but also people interested in public health who will want to focus more on the data rather than be distracted by too many details. Shorthand will also be an effective tool to present to any future internship and job applications easily. I also want to use impact images on shorthand that will draw the audience in to critically think about the crisis and walk away with thoughts about causes and effects on the Black community, feeling encouraged to take individual steps.
+
+
+
+[Home Page](/README.md)
